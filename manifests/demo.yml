@@ -5,7 +5,7 @@ metadata:
   namespace: default
 data:
   NEW_FEATURE: "true"
-  DUMMY_VERSION: 3
+  DUMMY_VERSION: "4"
 
 ---
 
